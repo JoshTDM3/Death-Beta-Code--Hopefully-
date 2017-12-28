@@ -1,4 +1,4 @@
-# Death-Beta-Code-1.3.5-1.5.1
+# https://github.com/JoshTDM3/Death-Beta-Code--Hopefully-
 This game was created with Scratch for reasons I don't want to talk about.
 Copyright JoshTDM3 2016-2017
 Currrent game version: 1.3.5
